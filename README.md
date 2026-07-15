@@ -1,5 +1,4 @@
 #  Sales Performance Analysis Using SQL
-
 ---
 
 ## 📌 Project Overview
