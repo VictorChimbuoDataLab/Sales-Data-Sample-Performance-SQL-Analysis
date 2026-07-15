@@ -1,6 +1,5 @@
 #  Sales Performance Analysis Using SQL
 ---
-
 ## 📌 Project Overview
 
 This project presents a comprehensive SQL analysis of a retail sales dataset to uncover business insights related to revenue performance, customer behavior, product performance, geographical trends, and sales seasonality.
