@@ -1,4 +1,4 @@
-# 🚗 Sales Performance Analysis Using SQL
+#  Sales Performance Analysis Using SQL
 
 ---
 
