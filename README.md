@@ -1,7 +1,5 @@
 # 🚗 Sales Performance Analysis Using SQL
 
-> **End-to-End SQL Data Analysis Project | AnalystLab Africa Internship – Week 3**
-
 ---
 
 ## 📌 Project Overview
@@ -71,33 +69,7 @@ This project answers these business questions using SQL.
 * SQL Server
 * SQL Server Management Studio (SSMS)
 * SQL
-* GitHub
-* Notion
 
----
-
-# 📁 Project Structure
-
-```text
-Sales-Performance-SQL-Analysis/
-│
-├── Dataset/
-│     └── sales_data_sample.csv
-│
-├── SQL Scripts/
-│     ├── 01_Database_Setup.sql
-│     ├── 02_Data_Exploration.sql
-│     ├── 03_Data_Quality_Assessment.sql
-│     ├── 04_Business_Analysis.sql
-│     └── 05_Advanced_SQL.sql
-│
-├── Images/
-│
-├── Report/
-│     └── Sales Performance Analysis Report.pdf
-│
-└── README.md
-```
 
 ---
 
@@ -120,24 +92,17 @@ The following were examined:
 ---
 
 ## 📷 Dataset Preview
+![Data Preview](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Sample%20Data%20Preview.png)
 
-> **Insert Screenshot**
 
-```text
-Images/Dataset Preview.png
-```
 
----
 
 ## 📷 Dataset Schema
-
-> **Insert Screenshot**
-
-```text
-Images/Dataset Schema.png
+![Data Schema](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Sample%20Data%20Schema.png)
 ```
 
----
+
+```
 
 ### Dataset Summary
 
@@ -159,18 +124,12 @@ Images/Dataset Schema.png
 * Trucks and Buses
 * Vintage Cars
 
----
 
 ## 📷 Product Categories
 
-> **Insert Screenshot**
-
-```text
-Images/Product Categories.png
-```
+![Product Categories](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Sample%20Product%20Categories.png)
 
 ---
-
 ### Countries Represented
 
 * Australia
@@ -197,11 +156,8 @@ Images/Product Categories.png
 
 ## 📷 Countries Covered
 
-> **Insert Screenshot**
+![Countries](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Sample%20Countries.png)
 
-```text
-Images/Countries Covered.png
-```
 
 ---
 
@@ -244,32 +200,18 @@ The dataset was exceptionally clean and required **no data cleaning** before ana
 ---
 
 ## 📷 Orders by Country
-
-> **Insert Screenshot**
-
-```text
-Images/Orders by Country.png
-```
+![Order By Countries](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Samples%20Order%20By%20Countries.png)
 
 ---
-
 ## 📷 Orders by Territory
+![Order by Territory](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Sample%20Order%20by%20Territory.png)
 
-> **Insert Screenshot**
 
-```text
-Images/Orders by Territory.png
-```
 
 ---
 
 ## 📷 Order Status Distribution
-
-> **Insert Screenshot**
-
-```text
-Images/Order Status Distribution.png
-```
+![Order by Status](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Sample%20Order%20by%20Status.png)
 
 ---
 
@@ -287,12 +229,7 @@ Images/Order Status Distribution.png
 ---
 
 ## 📷 Overall Business Performance
-
-> **Insert Screenshot**
-
-```text
-Images/Overall Business Performance.png
-```
+![Overall Performance](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Sample%20Overall%20Business%20Performance.png)
 
 ---
 
@@ -307,12 +244,7 @@ Images/Overall Business Performance.png
 ---
 
 ## 📷 Revenue by Year
-
-> **Insert Screenshot**
-
-```text
-Images/Revenue by Year.png
-```
+![Revenue By Year](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Sample%20Revenue%20By%20Year.png)
 
 ---
 
@@ -323,12 +255,7 @@ Quarter 4 generated the highest revenue in both 2003 and 2004, highlighting stro
 ---
 
 ## 📷 Revenue by Quarter
-
-> **Insert Screenshot**
-
-```text
-Images/Revenue by Quarter.png
-```
+![Revenue by Quarter](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Sample%20Revenue%20by%20Quarter.png)
 
 ---
 
@@ -339,12 +266,8 @@ November generated the highest monthly revenue, exceeding **$2.1 million**.
 ---
 
 ## 📷 Monthly Revenue
+![Revenue by Month](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Sample%20Revenue%20by%20Month.png)
 
-> **Insert Screenshot**
-
-```text
-Images/Monthly Revenue.png
-```
 
 ---
 
@@ -365,12 +288,7 @@ Classic Cars was the strongest-performing product line.
 ---
 
 ## 📷 Revenue by Product Line
-
-> **Insert Screenshot**
-
-```text
-Images/Revenue by Product Line.png
-```
+![Revenue by Product line](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Sample%20Revenue%20by%20Product%20line.png)
 
 ---
 
@@ -379,12 +297,8 @@ Classic Cars also sold the highest number of units (**33,992**).
 ---
 
 ## 📷 Units Sold by Product Line
+![Unit Sold by Product Line](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Sample%20Unit%20Sold%20by%20Product%20Line.png)
 
-> **Insert Screenshot**
-
-```text
-Images/Units Sold by Product Line.png
-```
 
 ---
 
@@ -401,12 +315,7 @@ Revenue
 ---
 
 ## 📷 Top 10 Products
-
-> **Insert Screenshot**
-
-```text
-Images/Top 10 Products.png
-```
+![Top 10 Best Selling Product](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Sample%20Top%2010%20Best%20Selling%20Product.png)
 
 ---
 
@@ -435,22 +344,13 @@ Revenue
 ---
 
 ## 📷 Top Customers
-
-> **Insert Screenshot**
-
-```text
-Images/Top Customers.png
-```
+![Top 10 Customers](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Sample%20Top%2010%20Customers.png)
 
 ---
 
 ## 📷 Most Active Customers
+![Top 10 Customers by Order](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Sample%20Top%2010%20Customers%20by%20Order.png)
 
-> **Insert Screenshot**
-
-```text
-Images/Most Active Customers.png
-```
 
 ---
 
@@ -465,12 +365,8 @@ Top Revenue Countries
 ---
 
 ## 📷 Revenue by Country
+![Revenue By Country](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Sample%20Geographic%20Analysis.png)
 
-> **Insert Screenshot**
-
-```text
-Images/Revenue by Country.png
-```
 
 ---
 
@@ -485,12 +381,7 @@ Revenue
 ---
 
 ## 📷 Revenue by Territory
-
-> **Insert Screenshot**
-
-```text
-Images/Revenue by Territory.png
-```
+![Revenue by Territory](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Sample%20Revenue%20by%20Territory.png)
 
 ---
 
@@ -507,12 +398,7 @@ Medium-sized deals generated the highest revenue.
 ---
 
 ## 📷 Revenue by Deal Size
-
-> **Insert Screenshot**
-
-```text
-Images/Revenue by Deal Size.png
-```
+![Revenue By Deal Size](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Sample%20Revenue%20By%20Deal%20Size.png)
 
 ---
 
@@ -535,58 +421,38 @@ The project demonstrates advanced SQL concepts beyond basic querying.
 ---
 
 ## 📷 CTE – Top Customers
-
-```text
-Images/CTE - Top Customers.png
-```
+![Top 5 Customers by Revenue](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Sample%20Top%205%20Customers%20by%20Revenue.png)
 
 ---
 
 ## 📷 Customers Above Average Revenue
-
-```text
-Images/Customers Above Average Revenue.png
-```
+![Customers Above Average](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Samples%20Customers%20Above%20Average%20Revenue.png)
 
 ---
 
 ## 📷 ROW_NUMBER()
-
-```text
-Images/ROW_NUMBER Example.png
-```
+![Row Example](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Sample%20Row%20Example.png)
 
 ---
 
 ## 📷 Customer Revenue Rank
-
-```text
-Images/Customer Revenue Rank.png
-```
+![Customers Revenue Rank](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Sample%20Customers%20Revenue%20Rank.png)
 
 ---
 
 ## 📷 Country Revenue Ranking
-
-```text
-Images/Country Revenue Ranking.png
-```
+![Country Revenue Rank](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Sample%20Country%20Revenue%20Rank.png)
 
 ---
 
 ## 📷 PARTITION BY
+![Partition by Example](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Sample%20Partition%20by%20Example.png)
 
-```text
-Images/Partition By Example.png
-```
 
 ---
 
 ## 📷 Correlated Subquery
-
-```text
-Images/Correlated Subquery.png
-```
+![Correlated Subqueries](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Sample%20Corelated%20Subqueries.png)
 
 ---
 
@@ -641,8 +507,8 @@ Images/Correlated Subquery.png
 
 ## 👤 Author
 
-**Victor Chimbuo**
+**I. Victor Chimbuo**
 
-**Data Analyst | SQL | Power BI | Excel | Python**
+**Data Analyst | SQL | Power BI | Excel**
 
 If you found this project insightful, feel free to connect with me on LinkedIn and explore my other analytics projects.
