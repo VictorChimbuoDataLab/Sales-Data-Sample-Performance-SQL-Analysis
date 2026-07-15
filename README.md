@@ -100,10 +100,7 @@ The following were examined:
 ## 📷 Dataset Schema
 ![Data Schema](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Sample%20Data%20Schema.png)
 ```
-
-
 ```
-
 ### Dataset Summary
 
 | Metric        |     Value |
@@ -123,7 +120,6 @@ The following were examined:
 * Trains
 * Trucks and Buses
 * Vintage Cars
-
 
 ## 📷 Product Categories
 
@@ -294,8 +290,6 @@ Classic Cars was the strongest-performing product line.
 
 Classic Cars also sold the highest number of units (**33,992**).
 
----
-
 ## 📷 Units Sold by Product Line
 ![Unit Sold by Product Line](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Sample%20Unit%20Sold%20by%20Product%20Line.png)
 
@@ -416,7 +410,7 @@ The project demonstrates advanced SQL concepts beyond basic querying.
 * DENSE_RANK()
 * PARTITION BY
 
-> **Note:** The dataset consists of a single denormalized table; therefore, join operations were not applicable. Advanced SQL capabilities were demonstrated using window functions, CTEs, and subqueries.
+**Note:** The dataset consists of a single denormalized table; therefore, join operations were not applicable. Advanced SQL capabilities were demonstrated using window functions, CTEs, and subqueries.
 
 ---
 
