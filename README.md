@@ -96,11 +96,9 @@ The following were examined:
 
 
 
-
 ## 📷 Dataset Schema
 ![Data Schema](./Sales_Data_Sample%20SQL%20Images/Sales_Data_Sample%20Data%20Schema.png)
-```
-```
+
 ### Dataset Summary
 
 | Metric        |     Value |
